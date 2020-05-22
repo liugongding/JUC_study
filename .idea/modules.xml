@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JUC_study.iml" filepath="$PROJECT_DIR$/JUC_study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/volatile/volatile.iml" filepath="$PROJECT_DIR$/volatile/volatile.iml" />
+    </modules>
+  </component>
+</project>
