@@ -1,8 +1,4 @@
-package dingding;
-
-import org.junit.Test;
-
-import java.util.concurrent.TimeUnit;
+package dingding.可见性;
 
 /**
  * @author liudingding
@@ -24,7 +20,7 @@ class MyData{
         this.number = 50;
     }
 }
-public class VolatileDemo {
+public class VolatileVisible {
 
     public static void main(String[] args) {
         MyData myData = new MyData();
