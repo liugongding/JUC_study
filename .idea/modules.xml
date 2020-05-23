@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CAS和AtomicInteger/CAS和AtomicInteger.iml" filepath="$PROJECT_DIR$/CAS和AtomicInteger/CAS和AtomicInteger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CAS和原子类/CAS和原子类.iml" filepath="$PROJECT_DIR$/CAS和原子类/CAS和原子类.iml" />
       <module fileurl="file://$PROJECT_DIR$/JUC_study.iml" filepath="$PROJECT_DIR$/JUC_study.iml" />
       <module fileurl="file://$PROJECT_DIR$/volatile/volatile.iml" filepath="$PROJECT_DIR$/volatile/volatile.iml" />
     </modules>
