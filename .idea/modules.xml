@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/CAS和原子类/CAS和原子类.iml" filepath="$PROJECT_DIR$/CAS和原子类/CAS和原子类.iml" />
       <module fileurl="file://$PROJECT_DIR$/JUC_study.iml" filepath="$PROJECT_DIR$/JUC_study.iml" />
       <module fileurl="file://$PROJECT_DIR$/volatile/volatile.iml" filepath="$PROJECT_DIR$/volatile/volatile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/独占锁和共享锁/独占锁和共享锁.iml" filepath="$PROJECT_DIR$/独占锁和共享锁/独占锁和共享锁.iml" />
     </modules>
   </component>
 </project>
