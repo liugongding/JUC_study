@@ -1,8 +1,6 @@
 package dingding.ABA问题;
 
-import jdk.nashorn.internal.runtime.logging.Logger;
 
-import java.util.concurrent.atomic.AtomicReference;
 import java.util.concurrent.atomic.AtomicStampedReference;
 
 /**
